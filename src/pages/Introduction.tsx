@@ -48,7 +48,11 @@ function Introduction() {
         </AboutImgBox2>
         <TWbox>
           <p>
-            <a href="https://t.me/soulweb3_office" target="_black">
+            <a href="https://t.me/soulweb3_office " target="_black">
+              Telegram
+            </a>
+            <span>|</span>
+            <a href="https://twitter.com/soul_web3 " target="_black">
               Twitter
             </a>
             <span>|</span>
